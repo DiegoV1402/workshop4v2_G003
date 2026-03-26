@@ -6,4 +6,4 @@
 * **Depuración de Funciones:** Se identificaron y corrigieron errores en `functions.py` para asegurar que las funciones devuelvan los valores esperados con los tipos correctos.
 * **Ajuste de Pruebas:** Se revisó `test_functions.py` para asegurar que las aserciones coincidan con el comportamiento esperado de las funciones corregidas.
 
-* **Enlace a la ejecución exitosa:** (https://github.com/DiegoV1402/workshop4v2_G003/actions/runs/23610541139)
+✅ **[Ver ejecución exitosa en GitHub Actions](https://github.com/DiegoV1402/workshop4v2_G003/actions/runs/23610541139)** 
